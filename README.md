@@ -39,7 +39,7 @@ Contributions are always welcome!
 Visit [@silentswrd on Ko-fi](https://ko-fi.com/silentswrd)
 
 Tips make it easier for me to work on current and upcoming projects and help me with the cost to maintain them.
-## Lisence
+## License
 
 Attribution-NonCommercial 2023 silencedswrd
 
