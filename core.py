@@ -61,7 +61,7 @@ while retry_attempts < settings['max_retry_attempts']:
             success = True
 
             # Delay
-            time.sleep(20)
+            time.sleep(settings['scrape_delay'])
     except NoSuchElementException:
         pass
 
