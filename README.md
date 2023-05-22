@@ -10,9 +10,9 @@ This was designed to check the price of a roblox **limited** item every few minu
 - [@silencedswrd](https://github.com/silencedswrd)
 
 
-## Python3 & Chrome required
+## Python & Chrome required
 
-[Python3](https://www.python.org/downloads/) is required to run. If you use Python2 or don't have Python installed please upgrade to avoid conflict. The code utilises [Chrome](https://www.google.com/chrome/) to scrape information correctly, make sure it is installed to the default path.
+[Python3](https://www.python.org/downloads/) is required to run. Make sure you use the correct python version. e.g. if you install the requirements.txt for `Python 3.11`, you should use the same version to run the `core.py`. The code utilises [Chrome](https://www.google.com/chrome/) to scrape information correctly, make sure it is installed to the default path.
     
 ## Usage / Instructions
 
