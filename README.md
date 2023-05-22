@@ -7,7 +7,7 @@ This was designed to check the price of a roblox **limited** item every few minu
 
 ## Author
 
-- [@silentswrd](https://github.com/silentswrd)
+- [@silencedswrd](https://github.com/silencedswrd)
 
 
 ## Python3 & Chrome required
