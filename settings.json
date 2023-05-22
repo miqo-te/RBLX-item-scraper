@@ -1,10 +1,11 @@
 {
-    "target": "https://www.roblox.com/catalog/13420959317/big-rainbow-sunglasses",
-    "min_price": 60,
-    "max_retry_attempts": 10,
+    "target": "https://www.roblox.com/catalog/13167169340/",
+    "min_price": 500,
+    "scrape_delay": 300,
+    "max_retry_attempts": 10, 
     "retry_delay": 3,
     "log_file": "price_log.txt",
-    "webhook_url": "https://discord.com/api/webhooks/1109861096522780673/YQGw5NCPRPKGzur7j01LYdsoeh291mxZYnod4uZThgIvIUbnIWT1e95TlWmOhaIlYALk",
-    "discord_user_id": "270260819999064065"
+    "webhook_url": "https://discord.com/api/webhooks/",
+    "discord_user_id": "0"
   }
   
