@@ -1,14 +1,8 @@
 
 # RBLX-item-scraper
+### ⚠️ Repo is archived & probably doesn't work anymore. Even if it worked, I don't suggest using it as the method used to scrape info is very unpractical.
 
 This was designed to check the price of a roblox **limited** item every few minutes with a custom delay option available. It will notify you by sending a message to your discord server using a webhook.
-
-
-
-## Author
-
-- [@silencedswrd](https://github.com/silencedswrd)
-
 
 ## Python & Chrome required
 
@@ -32,25 +26,3 @@ Note that you should change the settings to be towards your liking in `settings.
 2. Run `cd [PATH TO THE FOLDER]`
 3. Run `pip3 install -r requirements.txt`
 4. Run `python3 core.py`
-## Contributing
-
-Contributions are always welcome!
-
-Visit [@silentswrd on Ko-fi](https://ko-fi.com/silentswrd)
-
-Tips make it easier for me to work on current and upcoming projects and help me with the cost to maintain them.
-## License
-
-Attribution-NonCommercial 2023 silencedswrd
-
-This work is licensed under the Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0) License. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.
-
-You are free to:
-
-- Share: Copy and redistribute the material in any medium or format.
-- Adapt: Remix, transform, and build upon the material.
-
-Under the following terms:
-
-- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- NonCommercial: You may not use the material for commercial purposes.
